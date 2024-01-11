@@ -1,1 +1,1 @@
-This program provides the user with three buttons which have latin names for left, middle and right. Once either of them is clicked, it provides a english translation for them.
+This program provides the user with three buttons which have latin names for left, middle and right. Once either of them is clicked, it provides a english translation for them. The files contained in this project include the visual basic form (the item that the user sees) and the file containing the code that enables the form to work.
